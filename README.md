@@ -12,7 +12,7 @@
   </head>
   <body>
     Hello world! <br>
-    This is the current date and time, as computed by Python:
+    <a href="numpy.html">numpy</a>
     <py-script>
     </py-script>
   </body>
