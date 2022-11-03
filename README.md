@@ -11,6 +11,7 @@
     <script defer src="https://pyscript.net/latest/pyscript.js"></script>
   </head>
   <body>
+  [[numpy.html]]
     Hello world! <br>
     <a href="numpy.html">numpy</a>
     <py-script>
